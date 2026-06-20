@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Swabhiman Jena</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Python & Java Backend Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Python Backend Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swabhiman-jena-39659b386/">LinkedIn</a> •
@@ -20,8 +20,8 @@
 
 - 🎓 B.Tech in Computer Science & Engineering (BPUT)
 - 💼 Ex-SDE Intern @ Bluestock Fintech
-- 💻 Full Stack Developer with strong interest in Backend Engineering
-- 🌱 Currently learning **DSA, System Design, Spring Boot, React**
+- 💻 Full Stack Developer with strong interest in Backend Development
+- 🌱 Currently learning **DSA, REST APIs, Django, React**
 - 🔥 Solving LeetCode & building real-world projects
 - 📍 Bengaluru, India
 
@@ -42,7 +42,6 @@
 
 ## Backend & Database
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Tools
@@ -55,15 +54,15 @@
 # 📌 Featured Projects
 
 ## 💳 Digital Banking Wallet System
-A full-stack digital banking application with:
+A full-stack digital banking wallet application featuring:
 
-- Wallet balance management  
-- Deposit / Withdraw / Transfer  
-- Transaction history  
-- Admin analytics dashboard  
-- Fraud monitoring & KYC  
+- Wallet balance management
+- Deposit / Withdraw / Transfer
+- Transaction history
+- Admin analytics dashboard
+- Fraud monitoring & KYC
 
-**Tech:** React, JavaScript, Axios, Spring Boot, MySQL  
+**Tech Stack:** React, JavaScript, Axios, Local Storage, React Router
 
 🔗 Repository:  
 https://github.com/swabhimanjena/digital-banking-wallet
@@ -71,14 +70,14 @@ https://github.com/swabhimanjena/digital-banking-wallet
 ---
 
 ## 🛒 E-Commerce Website
-A full-stack shopping platform featuring:
+A full-stack e-commerce platform featuring:
 
-- Product catalog  
-- User authentication  
-- Shopping cart  
-- Product management  
+- Product catalog
+- User authentication
+- Shopping cart
+- Product management
 
-**Tech:** Python, Django, SQLite, HTML, CSS  
+**Tech Stack:** Python, Django, SQLite, HTML, CSS
 
 🔗 Repository:  
 https://github.com/swabhimanjena/ecommerce-website
@@ -103,9 +102,9 @@ https://github.com/swabhimanjena/ecommerce-website
 
 # 📫 Connect With Me
 
-- 📧 Email: swabhimanjena47@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/swabhiman-jena-39659b386/  
-- 🐙 GitHub: https://github.com/swabhimanjena  
+- 📧 Email: swabhimanjena47@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/swabhiman-jena-39659b386/
+- 🐙 GitHub: https://github.com/swabhimanjena
 
 ---
 
