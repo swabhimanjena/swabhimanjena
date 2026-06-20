@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=220&section=header&text=Swabhiman%20Jena&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Swabhiman Jena</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | Python & Java Backend Enthusiast</h3>
 
@@ -6,9 +10,13 @@
   <a href="https://github.com/swabhimanjena">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swabhimanjena&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (BPUT)
 - 💼 Ex-SDE Intern @ Bluestock Fintech
@@ -19,77 +27,89 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7D800?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+## Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Database
+## Backend & Database
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+## Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 💳 Digital Banking Wallet System
+## 💳 Digital Banking Wallet System
 A full-stack digital banking application with:
-- Wallet balance management
-- Deposit / Withdraw / Transfer
-- Transaction history
-- Admin analytics dashboard
-- Fraud monitoring & KYC
 
-**Tech:** React, JavaScript, Axios, Spring Boot, MySQL
+- Wallet balance management  
+- Deposit / Withdraw / Transfer  
+- Transaction history  
+- Admin analytics dashboard  
+- Fraud monitoring & KYC  
 
-Repository:  
-🔗 https://github.com/swabhimanjena/digital-banking-wallet
+**Tech:** React, JavaScript, Axios, Spring Boot, MySQL  
 
----
-
-### 🛒 E-Commerce Website
-Full-stack shopping platform featuring:
-- Product catalog
-- Authentication
-- Shopping cart
-- Product management
-
-**Tech:** Python, Django, SQLite, HTML, CSS
-
-Repository:  
-🔗 https://github.com/swabhimanjena/ecommerce-website
+🔗 Repository:  
+https://github.com/swabhimanjena/digital-banking-wallet
 
 ---
 
-## 📊 GitHub Stats
+## 🛒 E-Commerce Website
+A full-stack shopping platform featuring:
+
+- Product catalog  
+- User authentication  
+- Shopping cart  
+- Product management  
+
+**Tech:** Python, Django, SQLite, HTML, CSS  
+
+🔗 Repository:  
+https://github.com/swabhimanjena/ecommerce-website
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swabhimanjena&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swabhimanjena&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=swabhimanjena&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- 📧 Email: swabhimanjena47@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/swabhiman-jena-39659b386/
-- 🐙 GitHub: https://github.com/swabhimanjena
+- 📧 Email: swabhimanjena47@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/swabhiman-jena-39659b386/  
+- 🐙 GitHub: https://github.com/swabhimanjena  
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
