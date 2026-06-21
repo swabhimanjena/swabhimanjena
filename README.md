@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=220&section=header&text=Swabhiman%20Jena&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Swabhiman%20Jena&fontSize=50&fontColor=000000&animation=twinkling"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Swabhiman Jena</h1>
+<h1 align="center">Hey👋, I'm Swabhiman Jena</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | Python Backend Enthusiast</h3>
 
 <p align="center">
