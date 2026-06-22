@@ -1,74 +1,95 @@
 <div align="center">
 
-# Swabhiman Jena
+# ⚔️ SWABHIMAN JENA
 
-### Python Full Stack Developer • Backend Engineer • Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=1500&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=LEVELING+UP...;PYTHON+MAIN;FULL+STACK+PLAYER;BOSS+FIGHT+READY" />
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=Building+Elegant+Products;Clean+Code+Matters;Backend+Architecture+Enthusiast" />
+![Visitors](https://komarev.com/ghpvc/?username=swabhimanjena&color=red)
 
 </div>
 
 ---
 
-## About Me
+# 🎯 Player Stats
 
-- B.Tech CSE Student  
-- Python Full Stack Developer  
-- Passionate about scalable backend systems  
-- Love building clean, production-ready applications  
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge)
-
-### Frameworks
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge)
-![React](https://img.shields.io/badge/React-gray?style=for-the-badge)
+```yaml
+Name: Swabhiman Jena
+Class: Full Stack Developer
+Primary Weapon: Python
+Secondary Weapon: Django
+XP Level: Rising
+Special Skill: Backend Engineering
+```
 
 ---
 
-# Featured Project — NeoBank
+# 🧰 Skill Tree
 
-Secure digital wallet platform with enterprise-grade security.
+## Core Skills
+![Python](https://img.shields.io/badge/Python-100%25-red?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-95%25-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-80%25-purple?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-90%25-green?style=for-the-badge)
 
-## Login
+---
+
+# 🏦 Boss Project: NeoBank
+
+Mission objectives:
+- Authentication
+- Wallet Control
+- Transfer System
+- KYC
+- Transaction Logs
+
+---
+
+## 🔐 Login Screen
 <img src="./assets/bank-login.png"/>
 
-## Dashboard
+---
+
+## 📊 Dashboard
 <img src="./assets/bank-dashboard.png"/>
 
-## Wallet
+---
+
+## 💰 Wallet
 <img src="./assets/bank-wallet.png"/>
 
-## Transactions
+---
+
+## ⚔️ Transactions
 <img src="./assets/bank-transaction.png"/>
 
-## KYC
+---
+
+## 🛡 KYC
 <img src="./assets/bank-kyc.png"/>
 
 ---
 
-# E-Commerce Platform
+# 🛒 Side Quest: E-Commerce Platform
 
 <img src="./assets/ecommerce-home.png"/>
 
 ---
 
-## GitHub Stats
+# 📈 Battle Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=graywhite"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swabhimanjena&theme=radical"/>
 </p>
 
 ---
 
 <div align="center">
 
-### Think Different. Build Better.
+# GAME OVER?
+## Nope. Just getting started.
 
 </div>
