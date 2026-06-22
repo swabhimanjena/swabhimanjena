@@ -1,128 +1,74 @@
-<h1 align="center">🚀 Swabhiman Jena</h1>
-<h3 align="center">Python Full Stack Developer | Django Developer | Backend Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Tech" />
-</p>
+# Swabhiman Jena
 
----
+### Python Full Stack Developer • Backend Engineer • Problem Solver
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=Building+Elegant+Products;Clean+Code+Matters;Backend+Architecture+Enthusiast" />
 
-- 🎓 B.Tech CSE Student
-- 🐍 Python Full Stack Developer
-- 🌐 Building scalable web applications
-- 🧠 Passionate about backend systems
-- 🚀 Love solving real-world problems
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## About Me
+
+- B.Tech CSE Student  
+- Python Full Stack Developer  
+- Passionate about scalable backend systems  
+- Love building clean, production-ready applications  
+
+---
+
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge)
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react)
-
-### Backend & Database
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=postman)
+### Frameworks
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge)
+![React](https://img.shields.io/badge/React-gray?style=for-the-badge)
 
 ---
 
-# 🏦 Featured Project 1: NeoBank Digital Wallet
+# Featured Project — NeoBank
 
-A secure digital banking platform for wallet management, KYC verification, and transactions.
+Secure digital wallet platform with enterprise-grade security.
 
-## Features
-✅ Authentication  
-✅ Wallet Management  
-✅ Fund Transfer  
-✅ Transaction History  
-✅ KYC Verification  
-✅ Role-based Access  
+## Login
+<img src="./assets/bank-login.png"/>
 
-### Tech Stack
-Java • Spring Boot • JWT • React • MySQL • REST API
+## Dashboard
+<img src="./assets/bank-dashboard.png"/>
 
----
+## Wallet
+<img src="./assets/bank-wallet.png"/>
 
-## 🔐 Login Page
-<img src="assets/bank-login.png" width="100%">
+## Transactions
+<img src="./assets/bank-transaction.png"/>
 
----
-
-## 📊 Dashboard
-<img src="assets/bank-dashboard.png" width="100%">
+## KYC
+<img src="./assets/bank-kyc.png"/>
 
 ---
 
-## 💳 Wallet Services
-<img src="assets/bank-wallet.png" width="100%">
+# E-Commerce Platform
+
+<img src="./assets/ecommerce-home.png"/>
 
 ---
 
-## 💸 Transaction History
-<img src="assets/bank-transaction.png" width="100%">
-
----
-
-## 🛡️ KYC Verification
-<img src="assets/bank-kyc.png" width="100%">
-
----
-
-# 🛒 Featured Project 2: E-Commerce Website
-
-A full-stack shopping platform featuring authentication, product catalog, and cart management.
-
-## Features
-✅ User Authentication  
-✅ Product Catalog  
-✅ Shopping Cart  
-✅ Product Management  
-✅ Responsive UI  
-
-### Tech Stack
-Python • Django • HTML • CSS • SQLite
-
----
-
-## 🏠 Home Page
-<img src="assets/ecommerce-home.png" width="100%">
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swabhimanjena&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=graywhite"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-- GitHub: https://github.com/swabhimanjena
-- LinkedIn: Add Your LinkedIn Here
+### Think Different. Build Better.
 
----
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
+</div>
