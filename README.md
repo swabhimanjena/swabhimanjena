@@ -98,7 +98,18 @@ A full-stack e-commerce application featuring product browsing, authentication, 
 ### Tech Stack
 Python • Django • SQLite • HTML • CSS
 
+### 🏠 Home Page
 <img src="./assets/ecommerce-home.png"/>
+
+--- 
+
+### 🛒 Cart Page
+<img src="./assets/ecommerce-cart.png"/> 
+
+--- 
+
+### 📝 Signup Page 
+<img src="./assets/ecommerce-signup.png"/>
 
 ---
 
