@@ -1,93 +1,85 @@
-<div align="center">
+```md
+<h1 align="center">🚀 Swabhiman Jena</h1>
+<h3 align="center">Python Full Stack Developer | Django Developer | Backend Enthusiast</h3>
 
-# Hi 👋, I'm Swabhiman Jena
-
-### Aspiring Software Engineer | Full Stack Python Developer | Django Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Building+Scalable+Web+Applications;Python+Django+React+SQL;Always+Learning+New+Things"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-<div align="center">
-<img src="./assets/profile.png" width="250" style="border-radius:50%;" />
-</div>
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student  
+- 🐍 Python Full Stack Developer  
+- 🌐 Building scalable web applications  
+- 🧠 Passionate about backend systems  
+- 🚀 Love solving real-world problems  
 
 ---
 
-# 🚀 About Me
-
-- 🎓 B.Tech CSE Student (BPUT)
-- 💻 Ex-SDE Intern @ Bluestock Fintech
-- 🌱 Learning advanced backend & scalable web systems
-- 🔥 Passionate about full-stack development
-- 📍 Bengaluru, India
-
----
-
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react)
 
 ### Backend & Database
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=postman)
 
 ---
 
 # 🏦 Featured Project 1: NeoBank Digital Wallet
 
-A secure full-stack digital banking platform for wallet management, KYC, and transactions.
+A secure digital banking platform for wallet management, KYC, and transactions.
 
-### Features
+## Features
 ✅ JWT Authentication  
 ✅ Wallet Management  
 ✅ Add / Withdraw / Transfer Funds  
 ✅ Transaction History  
 ✅ KYC Verification  
-✅ Role-Based Access  
+✅ Role-based Access  
 
 ### Tech Stack
-React.js • Spring Boot • JWT • MySQL • REST APIs
+Python / Django / React / MySQL / REST APIs
 
 ---
 
 ## 🔐 Login Page
-<img src="./assets/bank-login.png" width="1000"/>
+<img src="./assets/Screenshot%202026-06-22%20151308.png" width="100%">
 
 ---
 
 ## 📊 Dashboard
-<img src="./assets/bank-dashboard.png" width="1000"/>
+<img src="./assets/Screenshot%202026-06-22%20152807.png" width="100%">
 
 ---
 
 ## 💳 Wallet Services
-<img src="./assets/bank-wallet.png" width="1000"/>
+<img src="./assets/Screenshot%202026-06-22%20153410.png" width="100%">
 
 ---
 
 ## 💸 Transaction History
-<img src="./assets/bank-transactions.png" width="1000"/>
+<img src="./assets/Screenshot%202026-06-22%20153425.png" width="100%">
 
 ---
 
-## 🛡 KYC Verification
-<img src="./assets/bank-kyc.png" width="1000"/>
+## 🛡️ KYC Verification
+<img src="./assets/Screenshot%202026-06-22%20153442.png" width="100%">
 
 ---
 
@@ -95,7 +87,7 @@ React.js • Spring Boot • JWT • MySQL • REST APIs
 
 A full-stack shopping platform featuring authentication, product catalog, and cart system.
 
-### Features
+## Features
 ✅ User Authentication  
 ✅ Product Catalog  
 ✅ Shopping Cart  
@@ -103,39 +95,35 @@ A full-stack shopping platform featuring authentication, product catalog, and ca
 ✅ Responsive UI  
 
 ### Tech Stack
-Python • Django • HTML • CSS • SQLite
+Python / Django / HTML / CSS / SQLite
 
 ---
 
 ## 🏠 Home Page
-<img src="./assets/ecommerce-home.png" width="1000"/>
+<img src="./assets/Screenshot%202026-06-22%20153521.png" width="100%">
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=swabhimanjena&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swabhimanjena&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swabhimanjena&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swabhimanjena&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swabhiman_Jena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swabhiman-jena-39659b386/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/swabhimanjena)
+- GitHub: https://github.com/swabhimanjena
+- LinkedIn: Add your LinkedIn here
 
 ---
 
-<div align="center">
-
-## ⭐ Code • Build • Learn • Repeat
-
-</div>
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
+```
