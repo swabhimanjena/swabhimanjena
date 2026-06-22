@@ -1,4 +1,3 @@
-```md
 <h1 align="center">🚀 Swabhiman Jena</h1>
 <h3 align="center">Python Full Stack Developer | Django Developer | Backend Enthusiast</h3>
 
@@ -126,4 +125,3 @@ Python / Django / HTML / CSS / SQLite
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
-```
